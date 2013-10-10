@@ -1,7 +1,3 @@
-.container{
-	max-width: 1000px;
-}
-
 .af-navbar-container {
 	margin-left: 50px;
 	margin-right: 100px;
@@ -81,10 +77,13 @@
 }
 
 #shop-text{
+	
+	padding-top: 4px;
 	margin-top: 2px;
 }
 
 #fb-text{
+	padding-top: 5px;
 	margin-top: 5px;
 }
 
@@ -92,14 +91,41 @@
 	float: left;
 	margin-top: 20px;
 	width: 882px;
-	margin-left: 35px;
+	margin-left: 20px;
 }
 
 .cf-carousel-slide{
 	height: 300px;
 }
 
+.home-footer {
 
+	background-color: #A8518A;
+}
 
+#footer {
 
+	list-style: none;
+	margin: 10px 0 10px 0
+}
 
+#footer li {
+
+	color: #fff;
+	margin-bottom: 5px;
+}
+
+#footer li a {
+	
+	color: #fff;
+}
+
+#footer-copyright {
+	color: #fff;
+	margin-right: 70px;
+}
+
+#footer-copyright a {
+
+	color: #fff;	
+}
